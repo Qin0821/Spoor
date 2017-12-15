@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Spoor</string>
+    <string name="sub_title">little spoor</string>
+
+
+    <string name="tb_action1">action1</string>
+    <string name="tb_action2">action2</string>
+
+
+    <string name="tv_tb_title">炫酷标题</string>
+
 </resources>
